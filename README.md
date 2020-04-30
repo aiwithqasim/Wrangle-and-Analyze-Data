@@ -50,4 +50,4 @@ The tasks in this project are as follows:
   
 ### Author 
 
-<a href = "https://github.com/qasim1020"></a>
+<a href = "https://github.com/qasim1020">GitHub</a>
